@@ -170,17 +170,17 @@ const slides = [
   {
     title: "data1",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "/assist/banner1.webp",
+    img: "./assist/banner1.webp",
   },
   {
     title: "data2",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "/assist/banner2.webp",
+    img: "./assist/banner2.webp",
   },
   {
     title: "data3",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "/assist/banner3.webp",
+    img: "./assist/banner3.webp",
   },
 ];
 
