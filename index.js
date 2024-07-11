@@ -170,17 +170,17 @@ const slides = [
   {
     title: "data1",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "./assist/banner1.webp",
+    img: "https://focal-theme-carbon.myshopify.com/cdn/shop/files/tom-dixon-lp-tile-1.jpg?v=1630492908&width=2000",
   },
   {
     title: "data2",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "./assist/banner2.webp",
+    img: "https://focal-theme-carbon.myshopify.com/cdn/shop/files/heritage-lp-3.jpg?v=1630492874&width=2000",
   },
   {
     title: "data3",
     des: "Lorem ipsum dolor sit amet consectetur.",
-    img: "./assist/banner3.webp",
+    img: "https://focal-theme-carbon.myshopify.com/cdn/shop/files/jump2-desktop.jpg?v=1630492956&width=1000",
   },
 ];
 
