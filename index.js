@@ -222,3 +222,13 @@ function updateSlide() {
 
 // تأكد من عرض الشريحة الأولى عند تحميل الصفحة
 updateSlide();
+
+setInterval(() => {
+  if (default_num >= slides.length) {
+    default_num = 0;
+  } else {
+    default_num++;
+  }
+
+  updateSlide();
+}, 5000);
